@@ -1,0 +1,1 @@
+https://turgenev.hatenablog.com/entry/2024/05/04/194137

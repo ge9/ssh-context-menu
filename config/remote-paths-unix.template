@@ -1,0 +1,6 @@
+/my/local/path1
+myremote1:/remote/path1
+/my/local/path2/
+myremote2:/remote/path2/
+/and/so/on
+WARNING:/file/should/end/with/a/newline
